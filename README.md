@@ -35,3 +35,4 @@ Uso
 
 Para utilizar a landing page:
 Visite o site: Acesse https://gushi24.github.io/GS---FrontEnde-WebDev/ em seu navegador.
+Visite o repositório: Acesse https://github.com/gushi24/GS---FrontEnde-WebDev em seu navegador.
